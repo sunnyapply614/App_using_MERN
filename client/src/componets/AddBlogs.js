@@ -6,6 +6,11 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { useStyles } from "./utils";
 
+/*
+This is client file
+The route is Client/components/addblogs.js
+*/
+
 const labelStyles = { mb: 1, mt: 2, fontSize: "24px", fontWeight: "bold" };
 const AddBlogs = () => {
   const classes = useStyles();
