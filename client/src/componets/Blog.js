@@ -1,3 +1,7 @@
+/*
+This is client's file/src/components/Blog.js
+*/
+
 import {
   Avatar,
   Box,
