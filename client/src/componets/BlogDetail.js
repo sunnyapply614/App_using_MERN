@@ -1,3 +1,6 @@
+/*
+This is client/src/BlogDetails.js
+*/
 import { Button, InputLabel, TextField, Typography } from "@mui/material";
 import { Box } from "@mui/system";
 import axios from "axios";
