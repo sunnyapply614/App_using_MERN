@@ -1,3 +1,5 @@
+//server/controller/user-contrller.js
+
 const User = require("../model/User");
 const bcrypt = require("bcryptjs");
 
