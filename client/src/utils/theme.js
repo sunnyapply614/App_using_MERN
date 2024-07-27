@@ -1,4 +1,5 @@
 /* eslint-disable no-unused-labels */
+// This is file -> client/src/utils/theme.js
 export const darkTheme = {
   bg: "black",
   bgLi: "#202020",

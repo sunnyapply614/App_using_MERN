@@ -1,3 +1,7 @@
+/*
+This is client/src/components/UpdateBlog.js
+*/
+
 import React from 'react'
 
 const UpdateBlog = () => {

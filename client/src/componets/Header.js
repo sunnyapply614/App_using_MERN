@@ -1,3 +1,7 @@
+/*
+This is client/src/components/Header.js
+*/
+
 import React, { useReducer } from "react";
 import { Link } from "react-router-dom";
 import { authActions, setDarkmode } from "../store";
