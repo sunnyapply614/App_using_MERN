@@ -1,3 +1,5 @@
+//Routes client/src/components/App.js
+
 import './App.css';
 import { Route, Routes } from "react-router-dom";
 import Header from './componets/Header';
@@ -7,8 +9,6 @@ import Blogs from './componets/Blogs';
 import UserBlogs from './componets/UserBlogs'
 import AddBlogs from './componets/AddBlogs'
 import BlogDetail from './componets/BlogDetail'
-
-
 
 function App() {
   return <React.Fragment>
