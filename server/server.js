@@ -19,5 +19,6 @@ app.use("/api", (req, res, next) => {
 });
 
 //define port
+//server/routes/server.js
 
 app.listen(5001, () => console.log("app started at 5001..."));
