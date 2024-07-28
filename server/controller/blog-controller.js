@@ -1,3 +1,5 @@
+//server/controller/blog-controller.js
+
 const mongoose = require("mongoose");
 const { findByIdAndRemove } = require("../model/Blog");
 const Blog = require("../model/Blog");
